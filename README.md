@@ -2,7 +2,7 @@
 
 I made a handy background subtraction tool which is generally useful as a preprocessing for object detection.
 
-The situations I dealt with often had extreme lightening changes. So this background subtraction tool takes lightening changes into account, normalizes it to produce a more stable video.
+The situations I dealt with often had extreme changes in light. So this background subtraction tool takes brightness changes into account, normalizes it to produce a more stable video.
 
 ![Demo](https://github.com/pranav-ust/transfer/blob/master/animation.gif)
 
@@ -29,7 +29,7 @@ usage: subtract.py [-h] [--output OUTPUT] [--kernel_size KERNEL_SIZE]
 
 positional arguments:
   video                 the video that you want to input
-	background						background image of that video
+  background		background image of that video
 
 optional arguments:
   -h, --help            show this help message and exit
