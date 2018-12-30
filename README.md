@@ -2,7 +2,7 @@
 
 I made a handy background subtraction tool which is generally useful as a preprocessing for object detection.
 
-The situations I dealt with often had extreme lightening changes. So this background subtraction tool takes lightening changes into account, normalizes it to produce a more stable video.
+The situations I dealt with often had extreme changes in light. So this background subtraction tool takes brightness changes into account, normalizes it to produce a more stable video.
 
 ## Requirements
 
