@@ -27,7 +27,7 @@ usage: subtract.py [-h] [--output OUTPUT] [--kernel_size KERNEL_SIZE]
 
 positional arguments:
   video                 the video that you want to input
-	background						background image of that video
+  background		background image of that video
 
 optional arguments:
   -h, --help            show this help message and exit
