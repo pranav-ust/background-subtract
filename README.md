@@ -4,7 +4,7 @@ I made a handy background subtraction tool which is generally useful as a prepro
 
 The situations I dealt with often had extreme changes in light. So this background subtraction tool takes brightness changes into account, normalizes it to produce a more stable video.
 
-![Demo](https://github.com/pranav-ust/transfer/blob/master/animation.gif)
+![Demo](https://github.com/pranav-ust/background-subtract/blob/master/animation.gif)
 
 ## Requirements
 
